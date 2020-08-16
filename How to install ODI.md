@@ -64,10 +64,10 @@ oracle  oraInventory
 ```
 
 
-![Image](https://www.dropbox.com/s/nxebpdbmssenzdl/SyhJsMs-8_ByMrQugMU.png?dl=1)
+![Image](https://github.com/dmiekoar/imgs/blob/master/odi/pic01.png)
 
 
-![Image](https://www.dropbox.com/s/5xlp9s27m3a3wai/SyhJsMs-8_H11vX_xGL.png?dl=1)
+![Image](https://github.com/dmiekoar/imgs/blob/master/odi/pic02.png)
 
 
 ```bash
